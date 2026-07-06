@@ -1,0 +1,7 @@
+#Sun Jul 05 01:13:28 IST 2026
+base.0=C\:\\Users\\heyob\\Documents\\Codex\\2026-05-25\\i-want-to-make-one-app\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+base.1=C\:\\Users\\heyob\\Documents\\Codex\\2026-05-25\\i-want-to-make-one-app\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
