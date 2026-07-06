@@ -1,0 +1,25 @@
+{
+	"appId": "com.masayaako.driver",
+	"appName": "Masaya Ako",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"plugins": {
+		"Geolocation": {
+			"permissions": [
+				"ACCESS_COARSE_LOCATION",
+				"ACCESS_FINE_LOCATION"
+			]
+		},
+		"LocalNotifications": {
+			"smallIcon": "ic_stat_icon_config_sample",
+			"iconColor": "#ff4400"
+		},
+		"PushNotifications": {
+			"presentationOptions": [
+				"badge",
+				"sound",
+				"alert"
+			]
+		}
+	}
+}
